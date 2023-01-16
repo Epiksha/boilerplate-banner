@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate-banner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "plop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Epiksha/boilerplate-banner.git"
+  },
+  "keywords": [],
+  "author": "Calvin Tiley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Epiksha/boilerplate-banner/issues"
+  },
+  "homepage": "https://github.com/Epiksha/boilerplate-banner#readme",
+  "devDependencies": {
+    "inquirer": "^9.1.4",
+    "plop": "^3.1.1"
+  },
+  "dependencies": {
+    "gsap": "^3.11.4"
+  }
+}
